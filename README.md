@@ -18,7 +18,7 @@ Daraus entwickle ich Werkzeuge mit grafischer Oberfläche, verständlichen Einst
 | --- | --- |
 | [6aus45](https://github.com/Lehner-007/6aus45) | Lokale GTK-4-Anwendung für Lotto 6 aus 45 und Joker mit Ziehungsdaten, Auswertungen und Tippverwaltung. |
 | [Tiny](https://github.com/Lehner-007/tiny2) | OBSBOT Tiny 2 und weitere V4L2-Kameras unter Linux bedienen: Livebild, Kamerasteuerung sowie Foto- und Videoaufnahme. [Release 0.17.0](https://github.com/Lehner-007/tiny2/releases/tag/v0.17.0) |
-| [pcmonitor](https://github.com/Lehner-007/pcmonitor) | Informationen über Hardware, Anschlüsse und angeschlossene Geräte übersichtlich anzeigen. |
+| [PCMonitor](https://github.com/Lehner-007/pcmonitor) | Informationen über Hardware, Anschlüsse und angeschlossene Geräte übersichtlich anzeigen. |
 | [checkweb](https://github.com/Lehner-007/checkweb) | Lokale Webseiten und erreichbare Webadressen prüfen und Befunde nachvollziehbar darstellen. |
 | [saveconfig](https://github.com/Lehner-007/saveconfig) | Programmeinstellungen sichern und wiederherstellen. |
 | [showipmac](https://github.com/Lehner-007/showipmac) | Geräte im lokalen Netzwerk mit IP- und MAC-Adressen anzeigen. |
