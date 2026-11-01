@@ -6,7 +6,7 @@
 
 # Willkommen! Ich bin Josef.
 
-Ich entwickle praktische Programme für Linux Mint. Meine Projekte entstehen aus Aufgaben, die mir im täglichen Umgang mit dem Rechner begegnen: Welche Hardware steckt im PC? Wie lassen sich Programmeinstellungen sichern? Welche Geräte befinden sich im Netzwerk? Und wie kann ich meine Webseite auf Fehler prüfen?
+Ich entwickle praktische Programme für Linux Mint. Meine Projekte entstehen aus Aufgaben, die mir im täglichen Umgang mit dem Rechner begegnen: Welche Hardware steckt im PC? Wie lassen sich Programmeinstellungen sichern? Welche Geräte befinden sich im Netzwerk? Wie kann ich eine Webseite auf Fehler prüfen – oder meine OBSBOT Tiny 2 am Linux-Rechner steuern?
 
 Daraus entwickle ich Werkzeuge mit grafischer Oberfläche, verständlichen Einstellungen und übersichtlichen Ausgaben. Ich arbeite hauptsächlich mit Python und lege Wert darauf, dass sich die Programme gut unter Linux Mint mit Cinnamon bedienen lassen.
 
@@ -16,6 +16,7 @@ Daraus entwickle ich Werkzeuge mit grafischer Oberfläche, verständlichen Einst
 
 | Projekt | Wofür es gedacht ist |
 | --- | --- |
+| [Tiny](https://github.com/Lehner-007/tiny2) | OBSBOT Tiny 2 und weitere V4L2-Kameras unter Linux bedienen: Livebild, Kamerasteuerung sowie Foto- und Videoaufnahme. [Release 0.17.0](https://github.com/Lehner-007/tiny2/releases/tag/v0.17.0) |
 | [pcmonitor](https://github.com/Lehner-007/pcmonitor) | Informationen über Hardware, Anschlüsse und angeschlossene Geräte übersichtlich anzeigen. |
 | [checkweb](https://github.com/Lehner-007/checkweb) | Lokale Webseiten und erreichbare Webadressen prüfen und Befunde nachvollziehbar darstellen. |
 | [saveconfig](https://github.com/Lehner-007/saveconfig) | Programmeinstellungen sichern und wiederherstellen. |
@@ -45,7 +46,7 @@ Auf **[dogtruck.eu](https://dogtruck.eu/)** schreibe ich über Linux, Computer, 
 
 ## Welcome! I'm Josef.
 
-I develop practical Python applications for Linux Mint, with a focus on graphical interfaces, clear settings and useful reports. My projects cover hardware information, configuration backups, local network devices, website checks and PDF tools.
+I develop practical applications for Linux Mint, with a focus on graphical interfaces, clear settings and useful reports. My projects cover hardware information, configuration backups, local network devices, website checks, PDF tools and camera control for the OBSBOT Tiny 2.
 
 **The applications ship with ten languages.** Please check each repository for its current features, requirements and development status.
 
