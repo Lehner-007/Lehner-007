@@ -16,6 +16,7 @@ Daraus entwickle ich Werkzeuge mit grafischer Oberfläche, verständlichen Einst
 
 | Projekt | Wofür es gedacht ist |
 | --- | --- |
+| [roccat](https://github.com/Lehner-007/roccat) | Beleuchtung der ROCCAT Magma und der kabelgebundenen Kone Pro unter Linux Mint steuern und Farbprofile verwalten. [DEB 0.1.3 (x86-64)](https://github.com/Lehner-007/roccat/releases/download/v0.1.3/roccat_0.1.3_amd64.deb) · [Deutsch und Englisch](https://github.com/Lehner-007/roccat#roccat) |
 | [Docscan](https://github.com/Lehner-007/docscan) | Dokumente über SANE scannen, Seiten bearbeiten und als PDF, PNG oder JPEG speichern. [DEB 0.4.0](https://github.com/Lehner-007/docscan/releases/download/v0.4.0/docscan_0.4.0_all.deb) · [Acht zusätzliche Sprach-/Hilfepakete](https://github.com/Lehner-007/docscan/releases/download/v0.4.0/docscan-0.4.0-languages.zip) |
 | [PCMonitor](https://github.com/Lehner-007/pcmonitor) | Informationen über Hardware, Anschlüsse und angeschlossene Geräte übersichtlich anzeigen. [DEB 0.6.0](https://github.com/Lehner-007/pcmonitor/releases/download/v0.6.0/pcmonitor_0.6.0_all.deb) · [10 Sprachen/Hilfe im Quellcode](https://github.com/Lehner-007/pcmonitor/blob/main/TRANSLATIONS.md) |
 | [checkweb](https://github.com/Lehner-007/checkweb) | Lokale Webseiten und erreichbare Webadressen prüfen und Befunde nachvollziehbar darstellen. [DEB 1.4.8](https://github.com/Lehner-007/checkweb/releases/download/v1.4.8/checkweb_1.4.8_all.deb) · [Zusatzsprachen mit Hilfe](https://github.com/Lehner-007/checkweb/tree/main/github/sprachpakete) |
@@ -48,7 +49,7 @@ Auf **[dogtruck.eu](https://dogtruck.eu/)** schreibe ich über Linux, Computer, 
 
 ## Welcome! I'm Josef.
 
-I develop practical applications for Linux Mint, with a focus on graphical interfaces, clear settings and useful reports. My projects cover hardware information, configuration backups, local network devices, website checks and PDF tools.
+I develop practical applications for Linux Mint, with a focus on graphical interfaces, clear settings and useful reports. My projects cover hardware information, configuration backups, local network devices, website checks, PDF tools and lighting controls. [roccat](https://github.com/Lehner-007/roccat) controls lighting on the ROCCAT Magma and wired Kone Pro on Linux Mint. [Download DEB 0.1.3 (x86-64)](https://github.com/Lehner-007/roccat/releases/download/v0.1.3/roccat_0.1.3_amd64.deb).
 
 **German and English are included by default. Eight additional languages with offline help are available in the current source or as separate language packs, depending on the project.**
 
